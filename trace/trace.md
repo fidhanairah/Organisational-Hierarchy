@@ -144,3 +144,7 @@ Search stops with:
 ```text
 low = 6
 high = 5
+
+Marketing is not found.
+
+Total comparisons: **3**
